@@ -1,0 +1,3 @@
+PADDING: Paddings criam um espaçamento dentro do elemento - Paddings afastam um elemento do outro
+MARGIN: Margins criam um espaçamento ao redor do elemento
+1em é uma vez o font-size do elemento
